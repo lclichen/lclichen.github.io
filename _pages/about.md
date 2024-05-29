@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a master's student from from the Department of Electronic Engineering and Information Science, University of Science and Technology of China(USTC). Prior to that, I graduated from Department of Electronic Engineering and Information Science at USTC with a bachelor’s degree.
+I'm a master's student from from the School of Cyber Science and Technology at University of Science and Technology of China(USTC). Prior to that, I graduated from Department of Electronic Engineering and Information Science at USTC with a bachelor’s degree.
 
 My main research interests are in 3D Artificial Intelligence Generated Content(3D AIGC), specifically focusing on scene and object generation.
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haolin Shi"
-description              : "I'm a master's student from from the Department of Electronic Engineering and Information Science, University of Science and Technology of China(USTC). Prior to that, I graduated from Department of Electronic Engineering and Information Science at USTC with a bachelor’s degree. My main research interests are in 3D Artificial Intelligence Generated Content(3D AIGC), specifically focusing on scene and object generation."
+description              : "离离沐雪踏轻尘."
 repository               : "lclichen/lclichen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "https://weibo.com/4c43"
+  weibo            : "4c43"
   xing             :
   youtube          :
   wikipedia        :
