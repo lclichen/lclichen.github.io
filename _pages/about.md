@@ -30,9 +30,11 @@ My main research interests are in 3D Artificial Intelligence Generated Content(3
 <!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"-->
 
-[DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling](https://dreamscene-project.github.io/), Haoran Li, **Haolin Shi**, Wenli Zhang, Wenjun Wu, Yong Liao, Lin Wang, Lik Hang Lee, Pengyuan Zhou, arXiv 2024
+[DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling](https://dreamscene-project.github.io/), Haoran Li, **Haolin Shi**, Wenli Zhang, Wenjun Wu, Yong Liao, Lin Wang, Lik-Hang Lee, Pengyuan Zhou, ***ECCV 2024***
 
 [2d-guided 3d gaussian segmentation](https://arxiv.org/abs/2312.16047), Kun Lan, Haoran Li, **Haolin Shi**, Wenjun Wu, Yong Liao, Lin Wang, Pengyuan Zhou, arXiv 2023
+
+[3D-GOI: 3D GAN Omni-Inversion for Multifaceted and Multi-object Editing](https://3d-goi.github.io), Haoran Li, Long Ma, **Haolin Shi**, Yong Liao, Yanbin Hao, Lechao Cheng, Pengyuan Zhou, ***ECCV 2024***
 
 [Vetaverse: A survey on the intersection of Metaverse, vehicles, and transportation systems](https://arxiv.org/abs/2210.15109), Pengyuan Zhou, Jinjing Zhu, Yiting Wang, Yunfan Lu, Zixiang Wei, **Haolin Shi**, Yuchen Ding, Yu Gao, Qinglong Huang, Yan Shi, Ahmad Alhilal, Lik-Hang Lee, Tristan Braud, Pan Hui, Lin Wang, arXiv 2022
 
@@ -57,4 +59,4 @@ My main research interests are in 3D Artificial Intelligence Generated Content(3
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.05 - now*, [Zhejiang Lab](http://www.zhejianglab.com/), China.
+- *2024.05 - 2024.07*, [Zhejiang Lab](http://www.zhejianglab.com/), Hangzhou.
