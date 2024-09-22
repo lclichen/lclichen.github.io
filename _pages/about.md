@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a master's student from from the School of Cyber Science and Technology at University of Science and Technology of China(USTC). Prior to that, I graduated from Department of Electronic Engineering and Information Science at USTC with a bachelor’s degree.
 
-My main research interests are in 3D Artificial Intelligence Generated Content(3D AIGC), specifically focusing on scene and object generation.
+My main research interests are in 3D Artificial Intelligence Generated Content(3D AIGC) and controllable generation, specifically focusing on scene and object generation.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -59,4 +59,5 @@ My main research interests are in 3D Artificial Intelligence Generated Content(3
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2024.07 - now*, [Youku](https://www.youku.com/), Beijing.
 - *2024.05 - 2024.07*, [Zhejiang Lab](http://www.zhejianglab.com/), Hangzhou.
