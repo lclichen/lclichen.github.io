@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a master's student from from the School of Cyber Science and Technology at University of Science and Technology of China(USTC). Prior to that, I graduated from Department of Electronic Engineering and Information Science at USTC with a bachelor’s degree.
+<!-- I'm a master's student from from the School of Cyber Science and Technology at University of Science and Technology of China(USTC). Prior to that, I graduated from Department of Electronic Engineering and Information Science at USTC with a bachelor’s degree.-->
 
-My main research interests are in 3D Artificial Intelligence Generated Content(3D AIGC) and controllable generation, specifically focusing on scene and object generation.
+<!-- My main research interests are in 3D Artificial Intelligence Generated Content(3D AIGC) and controllable generation, specifically focusing on scene and object generation.-->
+
+I am currently an Algorithm Engineer at Youku. I earned my master’s degree from the School of Cyber Science and Technology at the University of Science and Technology of China (USTC), and previously graduated from the Department of Electronic Engineering and Information Science at USTC with a bachelor’s degree. My main research and engineering interests lie in visual understanding and generation.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -29,6 +31,7 @@ My main research interests are in 3D Artificial Intelligence Generated Content(3
 
 <!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"-->
+[Multi-GRPO: Multi-Group Advantage Estimation for Text-to-Image Generation with Tree-Based Trajectories and Multiple Rewards](https://arxiv.org/abs/2512.00743), Qiang Lyu, Zicong Chen, Chongxiao Wang, **Haolin Shi**, Shibo Gao, Ran Piao, Youwei Zeng, Jianlou Si, Fei Ding, Jing Li, Chun Pong Lau, Weiqiang Wang, arXiv 2025
 
 [DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling](https://dreamscene-project.github.io/), Haoran Li, **Haolin Shi**, Wenli Zhang, Wenjun Wu, Yong Liao, Lin Wang, Lik-Hang Lee, Pengyuan Zhou, ***ECCV 2024***
 
@@ -59,5 +62,5 @@ My main research interests are in 3D Artificial Intelligence Generated Content(3
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.07 - now*, [Youku](https://www.youku.com/), Beijing.
+- *2024.07 - 2025.01*, [Youku](https://www.youku.com/), Beijing.
 - *2024.05 - 2024.07*, [Zhejiang Lab](http://www.zhejianglab.com/), Hangzhou.
